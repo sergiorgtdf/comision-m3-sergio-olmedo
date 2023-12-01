@@ -1,0 +1,6 @@
+[submodule "back-tp"]
+	path = back-tp
+	url = https://github.com/sergiorgtdf/back-tp.git
+[submodule "front-tp"]
+	path = front-tp
+	url = https://github.com/sergiorgtdf/front-tp.git
